@@ -377,7 +377,7 @@ Take 2 sips if you are running 20-series card.
 Take 3 sips if you are running 30-series card.
 Take 4 sips if you are running 40-series card and consider donating to charity.
 [Prompt]
-The power of random! {player} takes {random(1,4)} sips.
+The power of RNG! {player} takes {random(1,4)} sips.
 [Prompt]
 Everyone who has a true gaming chair takes a sip.
 [Prompt]
@@ -387,7 +387,7 @@ Take a sip if you ever shot a real gun.
 [Prompt]
 Take a sip if you have used having a headache as an excuse to get out of plans. Take an extra sip if it happened within last 7 days.
 [Prompt]
-Take a sip if you usually sleep alone in a 2-person bed.
+Take a sip if you usually sleep alone in a 2-person bed. :(
 [Prompt]
 Take a sip for every stuffed animal that is in/on your bed.
 [Prompt]
@@ -403,6 +403,7 @@ Toast <b>For the Emperor</b>, and take a sip for every one that applies:
 - Played Warhammer tabletop game.
 - Read or listened to a Warhammer book.
 - Played a videogame set in a Warhammer setting.
+
 [Prompt]
 Take a sip if you consider yourself an optimist. Cheers to a bright future!
 [Prompt]
@@ -427,6 +428,117 @@ Take a sip if you have ever used "password" or "12345" as a passwork for any of 
 [Prompt]
 Take a sip if you are under 30. Let us old dogs sit this one out.
 [Prompt]
+If your PC tower has fancy RGB lights inside, take a sip!
+
+[Group=Casual Pack 2]
+[Author=Sai'Raks]
+[Description=Random generic prompts, not related specifically to VR or Furries.]
+[Prompt]
+Take a sip if you've ever done a shot of tequila with salt and lime off someone's body.
+[Prompt]
+Take a sip if you've ever had to call in sick because of a hangover.
+[Prompt,NSFW]
+Take a sip if you ever went from meeting someone for the first time to having sex with them within 30 minutes.
+[Prompt]
+Take 2 sips if you have ever been arrested. Care to tell?
+[Prompt]
+Take a sip if you have ever been punched in the face.
+[Prompt]
+Take a sip if you've ever binge-watched an entire TV show in one sitting. Which one?
+[Prompt]
+Take a sip if you've ever fallen asleep during a movie in the theater. Which movie was it?
+[Prompt]
+Take a sip if you've ever locked yourself out of your own home.
+[Prompt,NSFW]
+Take a sip if you have ever walked into someone having sex or masturbating.
+[Prompt]
+Take a sip if you ever used Chat GPT to generate a response to someone.
+[Prompt]
+Take a sip if you take daily prescribed medicine.
+[Prompt]
+Take 3 sips if you own a fedora or trilby hat.
+One sip if you own Guy Fawks mask.
+5 sips if you own both.
+[Prompt]
+Take a sip if you ever tried paintball.
+[Prompt]
+Take a sip for each continent you have visited.
+[Prompt]
+Take a sip if you have pins on your backpack.
+[Prompt]
+Take a sip if you have
+[Prompt]
+Take a sip if you have played Chillout VR.
+[Prompt]
+{player} has to pretend to be rich and pretentious as they give out 4 drinks.
+[Prompt]
+Take a sip if you have tried AI Image Generators like MidJourney.
+[Prompt]
+Take a sip if you have your own parking spot.
+[Prompt]
+Take a sip if you have played chess in the last 2 months.
+[Prompt]
+Everyone who thinks that Hufflepuff is the best Hogwarts house takes a sip.
+[Prompt]
+Take a sip if you have ever dyed your hair in an unnatural color.
+[Prompt]
+Take a sip if you have never seen Game of Thrones.
+[Prompt]
+Take a sip if you have preordered a game in the last 3 months.
+
+[Group=NSFW Pack 1]
+[Author=Sai'Raks]
+[Description=Naughty and sex-related prompts.]
+[Prompt,NSFW]
+Take a sip if you have a kink that you think would turn off more than half the people in this instance. Please do not tell us what it is.
+[Prompt]
+Take a sip if you have an e621 registered account.
+[Prompt,NSFW]
+Take a sip if you ever had a condom break.
+[Prompt,NSFW]
+Take a sip if you need to be connected with a person on a deeper personal level before you would have sex with them. So drink if you are Demisexual.
+[Prompt,NSFW]
+Take a sip if you want to have sex with at least one other person in this room.
+[Prompt,NSFW]
+Take a sip if you ever traveled to another country or state just to have sex with someone.
+[Prompt,NSFW]
+Take a sip if you like Size Difference kink.
+[Prompt]
+Take a sip if you consider yourself a switch.
+[Prompt,NSFW]
+Take a sip if you ever participated in a large fetish event.
+[Prompt,NSFW]
+Take a sip if a hole is just a hole to you.
+[Prompt,NSFW]
+If you swallow cum, go ahead and swallow a sip too.
+[Prompt,NSFW]
+Take a sip if you ever had sex outdoors.
+[Prompt,NSFW]
+Take a sip if you own a Bad Dragon toy. We would say take a sip for each one, but we do not want to kill someone.
+[Prompt,NSFW]
+Take a sip if you know who made the "Fox in the Stables" animation.
+[Prompt,NSFW]
+Take a sip if you ever printed pornography on your home printer.
+[Prompt,NSFW]
+Take 2 sips if you have explicit artwork or photos hanging framed on your wall.
+[Prompt]
+Take a sip if you can twerk.
+[Prompt,NSFW]
+Take a sip if you have ever accidentally sent a nude to a wrong person.
+[Prompt,NSFW]
+Take a sip if you have ever used a regular item as an improvised dildo.
+[Prompt,NSFW]
+Take a sip if you have naughty selfies on your phone.
+[Prompt,NSFW]
+Take a sip if think you have an extremely niche kink.
+[Prompt,NSFW]
+Take a sip if you have an explicit or pornographic wallpaper on your computer or phone.
+[Prompt,NSFW]
+Take a sip if you are into feet. It is surprisingly common.
+[Prompt]
+Take a sip if you own a pup hood.
+[Prompt,NSFW]
+Take a sip if you ever hooked up with someone you met on Grindr.
 
 [Group=VRChat Furries]
 [Author=Sai'Raks]
@@ -437,6 +549,50 @@ This is targeted! If you ever used a {vrfurryspecies} avatar as your main, take 
 Take a sip for each DPS element on your avatar.
 [Prompt]
 The species most present in the instance right now all take a drink together. You are the majority!
+[Prompt]
+Take a sip if you have made the tail on your main avatar bigger.
+[Prompt,NSFW]
+If {player} and {player} were to ERP right now, who would be the Top? Other players vote and the losing team all take a sip.
+[Prompt]
+Take a sip if you have not paid for the base model of your main avatar.
+[Prompt]
+Take a sip if you have created and shared or sold VR assets.
+[Prompt]
+Take 2 sips if your main sona color is {color}.
+[Prompt]
+Take 3 sips if your main avatar download size is over 99 MB. It better be worth it.
+[Prompt]
+Take a sip if you have done a workout in VRC.
+[Prompt]
+Take a sip for each of these VRC games you have played: Murder 4, Prison Escape, Gun 'em Down, Fate of Irrbloss, Ghost.
+[Prompt]
+Take a sip if you have started using new base for your main avatar in the last 6 months.
+[Prompt]
+Take 2 sips if you have eye tracking or face tracking. Or 5 sips if you have both.
+[Prompt]
+Take a sip if you have your own furry stickers in real life.
+[Prompt]
+Take a sip if you make furry VRC tiktoks.
+[Prompt]
+Players who have links in their VRC profiles, take a sip for each.
+[Prompt]
+Take a sip if VRC made you switch your main sona species.
+[Prompt]
+Take a sip if your main avatar shares some details with the real you. Reveal which ones.
+[Prompt]
+If you have ever been a member on the RDL discord, take 3 sips. If you know, you know. Otherwise enjoy the blissful ignorance.
+[Prompt]
+Take a sip if you are a member of at least 3 different VR-oriented Furry Discord servers.
+[Prompt]
+Take a sip if you have ever sepent more than 150$ on a commission.
+[Prompt]
+Take a sip if you have commissioned 3d assets for your avatar.
+[Prompt]
+Take a sip if you dislike anime avatars.
+[Prompt]
+Take a sip if most of your IRL T-shirts have furry or animal motifs.
+[Prompt]
+Take a sip if your avatar has a toggle for latex attire, or 3 sips if your avatar is a latex creature.
 
 [Group=VRChat General]
 [Author=Sai'Raks]
@@ -479,22 +635,16 @@ Take a sip for every 5 avatars you have uploaded.
 Take a sip for every published world you have uploaded.
 [Prompt]
 Take 2 sips if you have FBT but aren't currently using it. Are you too lazy or is it just charging?
+[Prompt]
+Take a sip if your avatar has ever been ripped.
+[Prompt]
+Take a sip if you have let someone else wear your avatar for any reason.
+[Prompt]
+Take a sip if you have your hardware specs listed in your bio. Who cares?
+[Prompt]
+Take a sip if you have a body size slider on your main avatar.
+[Prompt]
+Take 2 sip if you have ever pirated VRC assets. Support the creators.
+[Prompt,NSFW]
+Take a sip if you ever did ERP in VR.
 
-[Group=Word replacer]
-[Author=~blep]
-[Description=A collection of bleps]
-[Prompt]
-Noisy!
-[Prompt]
-Lick {player}
-[Prompt]
-How much wood could a {player} chuck
-If a {player} could chuck wood?
-As much wood as a {player} could chuck,
-If a {player} could chuck wood.
-[Prompt]
-What is the meaning of this, {player}?
-[Prompt]
-How about {random(0,5)}
-[Prompt]
-In a fight between {player} and {player}, who would win? Vote, and the losing team takes a sip.
