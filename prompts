@@ -1,0 +1,500 @@
+## Double hash comments are ignored!
+
+## Rules must be in the start of the document!
+[Rule={color}]
+Black
+White
+Gray
+Red
+Green
+Blue
+Yellow
+Orange
+Purple
+Pink
+Cyan
+Brown
+Turquoise
+
+[Rule={continent}]
+Europe
+North America
+South America
+Africa
+Asia
+Australia
+
+[Rule={month}]
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+
+[Rule={vrfurryspecies}]
+Nargacuga
+Nardoragon
+Rexorium
+Awwter
+Kobodal
+ZDragon
+ZaiDragon
+Draconian
+Winterpaw's Canine
+Rubber Dragon
+Wickerbeast
+Protogen
+Synth
+Sergal
+Ampwave
+Hobkin
+Nanachi
+
+[Group=BUZZED Pack 1]
+[Author=BUZZED™]
+[Description=Pack containing prompts from a drinking card game BUZZED™, the original inspiration for this game world. Please drink responsibly]
+[Prompt]
+Everybody guess my phone's battery percentage. The person who is closest picks someone to take a sip.
+[Prompt]
+Take a sip if you have multiple active alarms set on your phone that are only a few minutes apart.
+[Prompt]
+Everyone must hold their cup like a mug of hot chocolate and take a lil sip like they're curled up next to a fire.
+[Prompt]
+Every player must tell the group a favorite thing about themselves. Then do a group cheers!
+[Prompt]
+Take a sip if you have ever seen <i>"The Human Centipede"</i>. Also, explain yourself.
+[Prompt]
+Take a sip if you have seen every Harry Potter movie.
+[Prompt]
+The player who is DJing right now takes a sip. We appreciate the hell outta you.
+[Prompt]
+The two players who have known each other the longest take a sip together.
+[Prompt]
+Every player over six feet tall takes a sip for every inch over six feet.
+[Prompt]
+All gingers take a sip.
+[Prompt]
+Every player who is sitting cross-legged takes two sips.
+[Prompt]
+Take a sip if you are friends with your mom on Facebook.
+[Prompt]
+Take a sip if you are the little spoon. Take 2 sips if you are the big spoon. Take 3 sips if you like being either.
+[Prompt]
+Whoever took a sip last time, takes another one.
+[Prompt]
+Count to three, then everyone points at the player they want to take a sip. Take as many sips as many people are pointing at you.
+[Prompt]
+The host of the party gives a toast. Everyone cheers and takes a sip.
+[Prompt]
+Give out a sip for each ex-girlfriend/boyfriend that you have.
+[Prompt]
+All players must reveal their first screen name. The person with the most embarrassing one must take a sip.
+[Prompt]
+All players who have stickers on their laptops must take a sip. Take two if one of the stickers is a quote.
+[Prompt]
+All players who have Apple AirPods must take a sip.
+[Prompt]
+All players who have an Alexa must take a sip.
+[Prompt]
+Take a sip if you have ever donated blood.
+[Prompt]
+Which player would make the best motivational speaker? Vote, and then that player takes a sip and gives us a little life wisdom.
+[Prompt]
+Which player can do the best impression of me? That person gives out a sip.
+[Prompt]
+All players who use an Android phone take a sip.
+
+[Group=BUZZED Pack 2]
+[Author=BUZZED™]
+[Description=Pack containing prompts from a drinking card game BUZZED™, the original inspiration for this game world. Please drink responsibly]
+[Prompt]
+All players who are using someone else's Netflix account take a sip.
+[Prompt]
+Any player with a cracked phone screen take a sip.
+[Prompt]
+Every player who knows how to solve a Rubik's Cube gives out 2 sips.
+[Prompt]
+Everyone who is younger than you takes a sip.
+[Prompt]
+Every player takes a sip for each year they had bracers.
+[Prompt]
+Every player with dyed hair takes a sip.
+[Prompt]
+Every blondie takes a drink.
+[Prompt]
+QUICK! Everyone touch your head with both hands! The last person to do so takes a sip.
+[Prompt]
+Take a sip if you are a pet owner.
+[Prompt]
+Take a sip if you do not know how old your mom is.
+[Prompt]
+Take a sip if you know your significant other's passcode. Trusting or toxic?
+[Prompt]
+Take a sip if you ever secretly thrown up at a patry and then acted like nothing happened.
+[Prompt]
+Take a sip if you have ever gone to class while high.
+[Prompt]
+Theater kids, take a sip.
+[Prompt]
+Players regularly wearing a watch, take a sip.
+[Prompt]
+Players who attended a Zoom meeting during quarantine, meet with your drink now.
+[Prompt]
+Everyone takes a sip for every letter in their legal first name. Sorry, Alexander.
+[Prompt]
+Take a sip of you have ever read a self-help book.
+[Prompt]
+If you bite your nails, keep your mouth busy with a drink.
+[Prompt]
+Players with younger siblings, set a bad example and drink.
+[Prompt]
+The last player who took an international trip takes a sip. Where did the trip go?
+[Prompt]
+If your phone is on less than 50%, you should 100% take a sip.
+[Prompt]
+If you have eaten at McDonalds in the past week, take a McSip.
+[Prompt]
+If you play golf, it's time to par-tee! Yell out "fore!" and take a sip.
+[Prompt]
+Drink if you still follow your ex on Twitter or Instagram. Drink twice if you have liked their latest post.
+
+[Group=BUZZED Pack 3]
+[Author=BUZZED™]
+[Description=Pack containing prompts from a drinking card game BUZZED™, the original inspiration for this game world. Please drink responsibly]
+[Prompt]
+Take a sip if you have ever quit your job. Why?
+[Prompt]
+Take a sip if you have ever taken a crying selfie. Kinda sad.
+[Prompt]
+If you prefer your coffee black, you are so brave and strong, take a sip, brave man.
+[Prompt]
+Which player needs to be checked into anger management? The person with most votes takes a sip to CHILL THE FUCK OUT.
+[Prompt]
+Which player is most addicted to the social media? They take a sip.
+[Prompt]
+Which player would be the first one to die in a scary movie? Person with most votes takes a sip.
+[Prompt]
+Take a sip  if you enjoy the smell of gasoline.
+[Prompt]
+Take a sip if you believe in ghosts.
+[Prompt]
+Drink if you have a kid.
+[Prompt,NSFW]
+Drink if you have made a woman cum before.
+[Prompt]
+Drink if you have ever been fired. 
+[Prompt]
+Take a sip if you got tested for Covid-19.
+[Prompt]
+Choose someone to play you 1 round in Rock, Paper, Scissors. Remaining players bet on who will win. Losers drink together in shame.
+[Prompt]
+Players that went to summer camp, take a sip for being so annoying that your parents had to send you away.
+[Prompt]
+The player who found out Santa isn't real at the oldest age takes a sip for being so gullible.
+[Prompt]
+If you have a 4-letter legal first name, take 4 sips.
+[Prompt]
+Everyone who has drunk-texted their ex in the last month must take a sip.
+[Prompt,NSFW]
+Everyone who has seen a dick on Chatroulette must take a sip.
+[Prompt]
+Whoever is in the picture on their phone's background takes a sip.
+[Prompt]
+Everybody scream "Aaaaaaah!". Now take a sip.
+[Prompt]
+Drink if you are old enough to have had a flip phone.
+[Prompt]
+Drink if you say y'all. Yeehaw!
+[Prompt]
+All players check what color underwear they have on. Whoever is wearing the same color takes a sip together.
+[Prompt]
+If you ever owned Crocs, take a sip. Take 4 sips if you are wearing Crocs right now.
+[Prompt]
+Drink if you ever posted a picture with a fish you caught. Drink twice if you ever used it for a dating profile.
+
+[Group=BUZZED Pack 4]
+[Author=BUZZED™]
+[Description=Pack containing prompts from a drinking card game BUZZED™, the original inspiration for this game world. Please drink responsibly]
+[Prompt]
+Ketchup or Mustard on a hotdog? Losing team drinks. If you put both, you also drink.
+[Prompt]
+Players wearing all black: this isn't a funeral. Take a sip.
+[Prompt]
+Drink if you have been to a casino. Drink twice if you lost money.
+[Prompt]
+Take a sip if you have not eaten a vegetable today.
+[Prompt]
+On the count of three, players point at the person most likely to order chicken nuggets at a fancy restaurant. Whoever has most fingers pointed at them takes a big sip.
+[Prompt]
+If this is your first time playing this game, take a sip. Welcome!
+[Prompt]
+Players who have gone skydiving, scuba diving, or zip-lining, take a sip to fuel your adventurous soul.
+[Prompt]
+If you have recently protested somewhere, take a break from saving the world and take a sip.
+[Prompt]
+If you have ever had a Tumblr, Myspace, or Vine, take a sip for each.
+[Prompt]
+Whoever has a tattoo, take a sip.
+[Prompt]
+Drink if this is your second day drinking in a row.
+[Prompt]
+Anyone who has milked a cow, take a sip and tell us how it made you feel.
+[Prompt]
+The player reading this prompt is now the fire marshal. Explain the scape plan if a fire started, and then give out 2 sips.
+[Prompt]
+Sleep talkers, take a sip. Sleepwalkers, take 2.
+[Prompt]
+If you took karate as a kid, show us your best karate chop, then take a sip.
+[Prompt,NSFW]
+Those who have fooled around in a movie theater, drink twice.
+[Prompt]
+Take 1 sip if you sleep on your side, 2 sips if you sleep on your back, and 3 if you sleep facedown.
+[Prompt]
+Everyone say what you were for last Halloween. Everyone votes on the best costume, and then that person chooses someone to drink. If you didn't dress up, drink twice.
+[Prompt]
+If you had an inhaler growing up, inhale your beverage.
+[Prompt]
+If you do yoga, you have plenty of headspace for another sip.
+[Prompt]
+Players who are vegetarian, take a sip.
+[Prompt]
+If you have more than 50 unread messages on your phone, drink.
+[Prompt]
+Drink if you had to learn cursive in elementary school. That was so pointless.
+[Prompt]
+Drink if you have not been to the dentist in over 2 years.
+[Prompt]
+Drink if the red heart is in your recently used emojis.
+
+[Group=BUZZED Pack 5]
+[Author=BUZZED™]
+[Description=Pack containing prompts from a drinking card game BUZZED™, the original inspiration for this game world. Please drink responsibly]
+[Prompt,NSFW]
+Drink if you have a sex playlist.
+[Prompt]
+Drink if you have an email signature. Best regards.
+[Prompt]
+The player reading this prompt must choose 2 other players to interlock their right arms and drink.
+[Prompt]
+As a group, decide the worst trend of this year. Whoever participated in that trend takes a sip.
+[Prompt]
+Drink if you have thrown a party at your house without your parents knowing.
+[Prompt]
+If you make your bed almost every day, take a sip.
+[Prompt]
+Whoever had the most recent birthday gets the gift of giving out 3 sips.
+[Prompt]
+Players with allergies must take a sip, and then do an allergy reveal.
+[Prompt]
+Drink if you go to a chiropractor. Speaking of, everone fix your posture. You're sitting like the Hunchback of Notre Dame.
+[Prompt]
+If you sucked your thumb as a child, suck down some drink now.
+[Prompt,NSFW]
+Drink if you subscribe to an OnlyFans. Give out 4 drinks if you have one.
+[Prompt]
+Drink if you can sing. Sing the chorus to "I will always love you" by Whitney Houston.
+[Prompt]
+Any players standing, make yourself comfortable and have a sip.
+[Prompt]
+If you are drinking beer, you are safe. Everyone else take a sip.
+[Prompt]
+Drink if you have ever ridden a horse.
+[Prompt]
+Drink if you are double jointed. Please do not show us.
+[Prompt]
+If your favorite movie is "Pulp Fiction", "The Wolf of Wall Street", or "The Godfather", drink up and expand your movie list.
+[Prompt]
+Do you take showers in the morning or before bed? Everyone votes and the losing team drinks.
+[Prompt]
+Which player needs a hug the most? The person with most votes gets a hug. No drinks, just hugs. <3
+[Prompt]
+In a fight between the youngest and the oldest players, who would win? The person with most votes gives out 2 sips.
+[Prompt]
+Drink if you have peed since the game started.
+[Prompt]
+Which player can make the best horse noise? The person with the most votes gets to give out a sip.
+[Prompt]
+Drink if your iPhone has a home button.
+[Prompt]
+Take a sip for each roommate that you have.
+[Prompt]
+Drink once for each person who has joined this instance off you.
+
+[Group=BUZZED Pack 6]
+[Author=BUZZED™]
+[Description=Pack containing prompts from a drinking card game BUZZED™, the original inspiration for this game world. Please drink responsibly]
+[Prompt]
+Drink if you have worn a face mask in the past 48 hours.
+[Prompt]
+Take a sip if you ever had a full-body massage.
+[Prompt,NSFW]
+Which player is the horniest? The person with most votes drinks.
+[Prompt]
+The host of the instance gives out 3 sips.
+[Prompt]
+All players who have dated another player take a sip.
+[Prompt]
+Drink if you have read the news today. You need that drink.
+[Prompt,NSFW]
+Which would you rather give up? Oral sex or cheese? Everyone votes; losing team drinks.
+[Prompt,NSFW]
+Which player had sex in the weirdest location? The person with the most votes gives out a sip.
+[Prompt]
+Drink if you voted in the latest election.
+[Prompt]
+If you put ketchup all over your fries, take a sip, you messy animal.
+[Prompt]
+Drink if you are in a serious relationship. A sip for each year you have been together.
+[Prompt]
+Take turns naming fast-food chains. First person to fuck up takes a big sip.
+[Prompt]
+Players who took band or orchestra in school must reveal their instrument(s) and take a sip.
+[Prompt,NSFW]
+Every player who is a Scorpio takes a drink. Your parents probably fucked on Valentine's Day. Ever thought of that?
+[Prompt]
+The player who broke the most bones (their own), takes a sip for each break.
+[Prompt]
+The youngest player takes a big sip. Grow up, buddy.
+[Prompt]
+All players take turns complimenting you. The player who gives the best compliment gives out 2 drinks.
+[Prompt]
+The tallest and the shortest players hug, and then take a drink together.
+
+[Group=Casual Pack 1]
+[Author=Sai'Raks]
+[Description=Random generic prompts, not related specifically to VR or Furries.]
+[Prompt]
+AMD users sit back and relax, this one is for nVidia owners!
+Take 1  sip if you are running 10-series card.
+Take 2 sips if you are running 20-series card.
+Take 3 sips if you are running 30-series card.
+Take 4 sips if you are running 40-series card and consider donating to charity.
+[Prompt]
+The power of random! {player} takes {random(1,4)} sips.
+[Prompt]
+Everyone who has a true gaming chair takes a sip.
+[Prompt]
+Take a sip for every 500 games in your steam library.
+[Prompt]
+Take a sip if you ever shot a real gun.
+[Prompt]
+Take a sip if you have used having a headache as an excuse to get out of plans. Take an extra sip if it happened within last 7 days.
+[Prompt]
+Take a sip if you usually sleep alone in a 2-person bed.
+[Prompt]
+Take a sip for every stuffed animal that is in/on your bed.
+[Prompt]
+Take a sip if you ever made a throw-away Reddit account.
+[Prompt]
+Take a sip if you ever had a lucid dream.
+[Prompt]
+Take a sip if you kept a journal as a kid. Take an extra sip if you still do.
+[Prompt]
+Take a sip for every 3d printer that you own, if any.
+[Prompt]
+Toast <b>For the Emperor</b>, and take a sip for every one that applies:
+- Played Warhammer tabletop game.
+- Read or listened to a Warhammer book.
+- Played a videogame set in a Warhammer setting.
+[Prompt]
+Take a sip if you consider yourself an optimist. Cheers to a bright future!
+[Prompt]
+Take a sip if you were born in {month}.
+[Prompt,NSFW]
+Take a sip if you have AD Twitter profile. Take an extra sip if it contains real-life lewd original content.
+[Prompt]
+Take a sip if you still have a Facebook account.
+[Prompt]
+If you like beer, have a sip. Make it double if it actually is beer you are sipping.
+[Prompt]
+What is better? Winter or Summer? Vote and the losing team takes a sip.
+[Prompt]
+Take a sip for each of the following software installed on your PC:
+Unity. Blender. Substance Painter. Photoshop. 3d Studio Max. Maya. 
+[Prompt]
+Take a sip if you are using DuckDuckGo as your default search engine.
+[Prompt]
+Take a sip if you use Firefox as your default browser.
+[Prompt]
+Take a sip if you have ever used "password" or "12345" as a passwork for any of your online accounts.
+[Prompt]
+Take a sip if you are under 30. Let us old dogs sit this one out.
+[Prompt]
+
+[Group=VRChat Furries]
+[Author=Sai'Raks]
+[Description=Pack full of VRChat Furry related prompts.]
+[Prompt]
+This is targeted! If you ever used a {vrfurryspecies} avatar as your main, take 2 sips. If it is still your main, double that amount.
+[Prompt,NSFW]
+Take a sip for each DPS element on your avatar.
+[Prompt]
+The species most present in the instance right now all take a drink together. You are the majority!
+
+[Group=VRChat General]
+[Author=Sai'Raks]
+[Description=Pack full of VRChat related prompts.]
+[Prompt]
+Take a drink if your main avatar does not have pants.
+[Prompt]
+Take a drink if your main avatar has more than 2 sets of clothing toggles.
+[Prompt]
+Anyone in FBT right now takes a sip.
+[Prompt]
+Take 3 sips if you are playing in Desktop mode. We have to believe you.
+[Prompt]
+Take 2 sips if your avatar is more than 1 foot / 30 cm taller or shorter than you are in real life.
+[Prompt]
+FBT users visibly lying down take a sip.
+[Prompt]
+Half-body users currently sitting in real life, while the avatar stands take a sip.
+[Prompt]
+Take a sip if your avatar has bioluminescent emissions.
+[Prompt]
+Take a sip if you are using exclusively Poiyomi shaders on your avatar. Other shaders exist, you know.
+[Prompt]
+Take a sip if you are using exclusively Unity Standard Shader on your avatar. You might want to expand your horizons.
+[Prompt]
+Anybody in a public avatar takes a sip.
+[Prompt]
+Everyone who has {player} in their friends list takes a sip.
+[Prompt]
+Take a sip if your main avatar performance rating is NOT "Very Poor".
+[Prompt]
+{player} gives out 2 sips.
+[Prompt]
+Take a sip if your current avatar is wearing techwear or cyberpunk styled clothing.
+[Prompt]
+Take a drink if you have a hue shifter on your main avatar.
+[Prompt]
+Take a sip for every 5 avatars you have uploaded.
+[Prompt]
+Take a sip for every published world you have uploaded.
+[Prompt]
+Take 2 sips if you have FBT but aren't currently using it. Are you too lazy or is it just charging?
+
+[Group=Word replacer]
+[Author=~blep]
+[Description=A collection of bleps]
+[Prompt]
+Noisy!
+[Prompt]
+Lick {player}
+[Prompt]
+How much wood could a {player} chuck
+If a {player} could chuck wood?
+As much wood as a {player} could chuck,
+If a {player} could chuck wood.
+[Prompt]
+What is the meaning of this, {player}?
+[Prompt]
+How about {random(0,5)}
+[Prompt]
+In a fight between {player} and {player}, who would win? Vote, and the losing team takes a sip.
